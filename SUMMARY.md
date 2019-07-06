@@ -13,9 +13,4 @@
 * [Ch 27: Optics-3](ch-27.md)
 * [Ch 28: Relativity](ch-28.md)
 * [Ch 29: Quantum](ch-29.md)
-* [\(01\) Introduction](01-introduction.md)
-* [\(02\) Kinematics-1](02-kinematics-1.md)
-* [\(03\) Kinematics-2](03-kinematics-2.md)
-* [\(04\) Dynamics-1](04-dynamics-1.md)
-* [\(05\) Dynamics-2](05-dynamics-2.md)
 
