@@ -4,7 +4,7 @@
 * [Ch 18: Electric-1](ch-18.md)
 * [Ch 19: Electric-3](ch-19.md)
 * [Ch 20: E-Current](ch-20.md)
-* [Ch 21: DC Circuits](ch-21-dc-circuits.md)
+* [Ch 21: DC Circuits](ch-21.md)
 * [Ch 22: Magnetism](ch-22-magnetism.md)
 * [Ch 23: Induction](ch-23-induction.md)
 * [Ch 24: EM](ch-24-em.md)
