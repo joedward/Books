@@ -1,4 +1,4 @@
-# Introduction
+# Foreword
 
 These chapter notes are based on the hard work of Greg Clements. I have rearranged some aspects of the notes; also, I am in the process of converting the math markup to a format that is viewable in a browser, and I am adjusting the content to fit my classes. Nevertheless, the great bulk of credit goes to the original author.
 
