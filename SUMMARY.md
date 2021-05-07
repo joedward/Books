@@ -32,5 +32,5 @@
   * [Ch 27: Optics-3](phy-202/ch-27.md)
   * [Ch 28: Relativity](phy-202/ch-28.md)
   * [Ch 29: Quantum](phy-202/ch-29.md)
-* [Temp](untitled.md)
+* [Temp](temp.md)
 
