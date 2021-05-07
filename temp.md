@@ -159,9 +159,17 @@ x=3at2 x=3at2 L=3⋅LT2⋅T2 L=3L
 
 But the equation x=3at is not dimensionally consistent, as seen below…
 
+x=3at^2
+
 x=3at x=3at L=3⋅LT2⋅T L=3LT
 
-### The Importance of Dimensional Consistency
+
+
+$$
+\tan{\theta}=\frac{\sin{\theta}}{\cos{\theta}}
+$$
+
+ The Importance of Dimensional Consistency
 
 Dimensional consistency can be thought of as a first test in verifying an equation. If the equation fails this first test, then it can’t be a correct equation.
 
